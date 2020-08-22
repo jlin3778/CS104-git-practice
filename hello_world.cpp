@@ -1,0 +1,5 @@
+#include <iostream>
+int main(){
+  cout <<"Fight On!" << endl;
+  return 0;
+}
